@@ -1,0 +1,22 @@
+#image {
+    display: flex;
+    justify-content: center;
+}
+
+#centertext {
+    text-align: center;
+}
+.centertextborder {
+    text-align: center;
+    border-style: solid;
+    border-color:orange;
+    padding: 10px;
+}
+body{
+    background-color: rgba(169, 205, 210, 0.412);
+}
+.gallery {
+    display: flex;
+    justify-content: space-between;
+    width: 93%;
+  }
