@@ -1,0 +1,46 @@
+.main-banner .caption h6{
+    font-size: 70px;
+    color:white;
+}
+.main-banner .caption h2{
+    font-size: 40px;
+    color:#ed563b;
+    margin-top:50px;
+}
+.caption{
+    font-family: Poppins;
+}
+.soon h3{
+    font-family:Poppins;
+    text-align: center;
+    margin-top: 80px;
+}
+.soon h5{
+    font-family:Poppins;
+    text-align:center;
+    margin-top: 90px;
+}
+.ourspec {
+    font-family:Poppins;
+    text-align:center;
+    margin-top:90px;
+}
+.caption h6{
+    font-family: Poppins;
+    color:#ed563b;
+    font-size: 75px;
+}
+.caption h5{
+    font-family:Poppins;
+    color:white;
+    font-size: 50px;
+}
+.dark-background h1{
+    font-family: Poppins;
+    color:black;
+    font-size: 50px;
+}
+.bestaspects h1{
+    font-family:Poppins;
+    font-size:65px;
+}
