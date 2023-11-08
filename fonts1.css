@@ -25,10 +25,6 @@
     text-align:center;
     margin-top:90px;
 }
-.ourspec h2{
-    font-family: Poppins;
-    font-size: 60px;
-}
 .caption h6{
     font-family: Poppins;
     color:#ed563b;
@@ -47,5 +43,7 @@
 .bestaspects h1{
     font-family:Poppins;
     font-size:65px;
-    padding-top: 100px;
+}
+.about-section h1{
+    color: white;
 }
